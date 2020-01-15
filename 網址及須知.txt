@@ -1,0 +1,8 @@
+版本:Unity 5.6.6f2 (64-bit)
+
+UWA網址__https://lab.uwa4d.com/lab/5b480ff9d7f10a201fba4afd
+
+官方Github網址__https://github.com/mob-sakai/ShinyEffectForUGUI
+
+本人Github網址__https://github.com/z1125411235/Shiny-Effect-For-UGUI
+
